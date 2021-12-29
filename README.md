@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I am a current General Assembly bootcamp student, and look forward to beginning my software engineering career very soon! 
+
+- 🌱 I’m currently learning ... Java and Spring Boot!
+- 🔭 I’m currently working on ... an application in Java/Spring Boot that writes/retrieves data from a PostgreSQL database!
+- 📫 How to reach me: ... [LinkedIn!](https://www.linkedin.com/in/abby-henes-8312a2208/)
+
 <!--
 **dinowaffles/dinowaffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
