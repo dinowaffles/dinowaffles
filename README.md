@@ -2,8 +2,8 @@
 
 #### I am a current General Assembly bootcamp student, and look forward to beginning my software engineering career very soon! 
 
-- 🌱 I’m currently learning ... Java and Spring Boot!
-- 🔭 I’m currently working on ... an application in Java/Spring Boot that writes/retrieves data from a PostgreSQL database!
+- 🌱 I’m currently learning ... Angular!
+- 🔭 I’m currently working on ... learning how to utilize Angular to build a front-end to a full-stack application!
 - 📫 How to reach me: ... [LinkedIn!](https://www.linkedin.com/in/abby-henes-8312a2208/)
 
 <!--
