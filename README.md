@@ -3,7 +3,7 @@
 #### I am a current General Assembly bootcamp student, and look forward to beginning my software engineering career very soon! 
 
 - 🌱 I’m currently learning ... how to build a full-stack application!
-- 🔭 I’m currently working on ... making a full-stack application with a back-end on Java/Spring and a front-end with Angular!
+- 🔭 I’m currently working on ... building my capstone project with a back-end on Java/Spring and a front-end with Angular!
 - 📫 How to reach me: ... [LinkedIn!](https://www.linkedin.com/in/abby-henes-8312a2208/)
 
 <!--
