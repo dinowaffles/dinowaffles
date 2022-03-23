@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-#### I am a current General Assembly bootcamp student, and look forward to beginning my software engineering career very soon! 
+#### I am working for CVS Health as a Junior Software Engineer! 
 
-- 🌱 I’m currently learning ... testing automation and authentication!
-- 🔭 I’m currently working on ... job search!
+- 🌱 I’m currently learning ... how to work in an existing code base on a large, distributed team!
 - 📫 How to reach me: ... [LinkedIn!](https://www.linkedin.com/in/abby-henes-8312a2208/)
 
 <!--
